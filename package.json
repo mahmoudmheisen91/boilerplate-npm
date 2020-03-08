@@ -2,6 +2,7 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Mahmoud Mheisen",
   "description": "A Boilerplate for FCC API and Microservices Challenges",
+  "license": "MIT",
   "keywords": [
     "freecodecamp",
     "boilerplate",
