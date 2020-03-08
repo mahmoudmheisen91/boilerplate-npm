@@ -3,6 +3,7 @@
   "author": "Mahmoud Mheisen",
   "description": "A Boilerplate for FCC API and Microservices Challenges",
   "license": "MIT",
+  "version": "0.0.1",
   "keywords": [
     "freecodecamp",
     "boilerplate",
